@@ -1,6 +1,6 @@
 # dailycodingproblems
 
-# H3 Problem 6
+### Problem 6
 
 This problem was asked by Google.
 
